@@ -1,0 +1,93 @@
+[
+    {
+      "id": 1,
+      "name": "The walking Dead",
+      "price": 10.99,
+      "imgUrl": "/imgs/45.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Barbie",
+      "price": 1199,
+      "imgUrl": "/imgs/46.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Game of thornes",
+      "price": 1.05,
+      "imgUrl": "/imgs/47.jpg"
+    },
+    {
+      "id": 4,
+      "name": "Halloween end",
+      "price": 14000,
+      "imgUrl": "/imgs/48.jpg"
+    },
+    {
+      "id": 5,
+      "name": "Strangers things 2",
+      "price": 14000,
+      "imgUrl": "/imgs/49.jpg"
+    },
+    {
+      "id": 6,
+      "name": "Avenger",
+      "price": 14000,
+      "imgUrl": "/imgs/41.jpg"
+    },
+    {
+      "id": 7,
+      "name": "Avatar",
+      "price": 14000,
+      "imgUrl": "/imgs/42.jpg"
+    },
+    {
+      "id": 8,
+      "name": "Titanic",
+      "price": 14000,
+      "imgUrl": "/imgs/44.jpg"
+    },
+    {
+      "id": 9,
+      "name": "Train to busan",
+      "price": 14000,
+      "imgUrl": "/imgs/50.jpg"
+    },
+    {
+      "id": 10,
+      "name": "Iron man 3",
+      "price": 14000,
+      "imgUrl": "/imgs/51.jpg"
+    },
+    {
+      "id": 10,
+      "name": "The Twilight Saga: Breaking Dawn - Part 2 ",
+      "price": 14000,
+      "imgUrl": "/imgs/52.jpg"
+    },
+    {
+      "id": 10,
+      "name": "Resident Evil: The Final Chapter",
+      "price": 14000,
+      "imgUrl": "/imgs/53.jpg"
+    },
+    {
+      "id": 10,
+      "name": "Forrest Gump",
+      "price": 14000,
+      "imgUrl": "/imgs/54.jpg"
+    },
+    {
+      "id": 10,
+      "name": "Inception",
+      "price": 14000,
+      "imgUrl": "/imgs/55.jpg"
+    },
+    {
+      "id": 10,
+      "name": "Mulan",
+      "price": 14000,
+      "imgUrl": "/imgs/56.jpg"
+    }
+  ]
+  
